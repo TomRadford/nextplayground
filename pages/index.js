@@ -13,7 +13,7 @@ export default function Home({ pokeList, allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Hola, this is the testing branch!</p>
+        <p>Hello, I'm Tom!</p>
         <p>This be a blog to learn the workings of NextJS :)</p>
         <p>
           <Link href="/ssr">SSR example</Link>
